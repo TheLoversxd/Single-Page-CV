@@ -1,2 +1,3 @@
 # Single-Page-CV
-Hi there, this is my beginner website
+
+Project URL: https://theloversxd.github.io/Single-Page-CV/
